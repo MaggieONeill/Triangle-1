@@ -9,5 +9,6 @@ public class TriangleTest {
     assertEquals(true, testTriangle instanceof Triangle);
 
   }
+  
 
 }
