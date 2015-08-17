@@ -11,7 +11,7 @@ public class Triangle {
     mSide_2 = side_2;
     mSide_3 = side_3;
   }
-
+  
   public Triangle (Integer side_1, Integer side_2, Integer side_3){
     mSide_1 = side_1;
     mSide_2 = side_2;
